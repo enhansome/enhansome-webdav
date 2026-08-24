@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T22:28:58Z",
                 "owner": "9001",
                 "repo": "copyparty",
-                "stars": 46343
+                "stars": 46346
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 610292163,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:48:00Z",
+                "last_commit": "2026-08-24T13:32:34Z",
                 "owner": "stalwartlabs",
                 "repo": "stalwart",
-                "stars": 14324
+                "stars": 14325
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 197914161,
                 "language": "Go",
-                "last_commit": "2026-08-24T05:02:31Z",
+                "last_commit": "2026-08-24T13:12:50Z",
                 "owner": "drakkan",
                 "repo": "sftpgo",
-                "stars": 12439
+                "stars": 12443
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-01T02:55:24Z",
                 "owner": "svenstaro",
                 "repo": "miniserve",
-                "stars": 7809
+                "stars": 7811
               }
             },
             {
@@ -217,7 +217,7 @@
                     "last_commit": "2026-06-29T12:01:47Z",
                     "owner": "sigoden",
                     "repo": "dufs",
-                    "stars": 10656
+                    "stars": 10655
                   }
                 },
                 {
@@ -256,6 +256,35 @@
           "description": "Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions",
           "node_type": "group",
           "title": "Standalone"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "nginx",
+              "description": "Supports a subset of WebDAV methods via the module.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "nginx-dav-ext-module",
+                  "description": "Unofficial module that adds full WebDAV support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3287337,
+                    "language": "C",
+                    "last_commit": "2024-05-18T05:45:42Z",
+                    "owner": "arut",
+                    "repo": "nginx-dav-ext-module",
+                    "stars": 511
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Web servers that support WebDAV or have modules to enable WebDAV support",
+          "node_type": "group",
+          "title": "Web servers"
         }
       ],
       "title": "Servers"
@@ -272,10 +301,10 @@
             "archived": false,
             "id": 78243781,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:28:22Z",
+            "last_commit": "2026-08-24T07:29:17Z",
             "owner": "super-productivity",
             "repo": "super-productivity",
-            "stars": 21544
+            "stars": 21552
           }
         },
         {
@@ -290,7 +319,7 @@
             "last_commit": "2026-05-08T03:29:03Z",
             "owner": "keeweb",
             "repo": "keeweb",
-            "stars": 12987
+            "stars": 12988
           }
         },
         {
@@ -459,6 +488,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "far2l",
+              "description": "A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65415224,
+                "language": "C++",
+                "last_commit": "2026-08-24T06:42:48Z",
+                "owner": "elfmz",
+                "repo": "far2l",
+                "stars": 2210
+              }
+            }
+          ],
+          "description": "General purpose apps to browse and manage files on a WebDAV server",
+          "node_type": "group",
+          "title": "File managers and tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Duplicati",
               "description": "Supports WebDAV as a backup target (for Windows, Mac and Linux).",
               "children": [],
@@ -466,10 +517,10 @@
                 "archived": false,
                 "id": 22636263,
                 "language": "C#",
-                "last_commit": "2026-08-22T09:48:08Z",
+                "last_commit": "2026-08-24T13:27:11Z",
                 "owner": "duplicati",
                 "repo": "duplicati",
-                "stars": 14925
+                "stars": 14926
               }
             },
             {
@@ -491,6 +542,28 @@
           "description": "Apps used for backup and/or synchronizing data between multiple destinations",
           "node_type": "group",
           "title": "Backup and sync"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Table Habit",
+              "description": "Micro habits tracking app with sync via WebDAV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632693436,
+                "language": "Dart",
+                "last_commit": "2026-08-24T12:16:02Z",
+                "owner": "FriesI23",
+                "repo": "mhabit",
+                "stars": 1457
+              }
+            }
+          ],
+          "description": "Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync",
+          "node_type": "group",
+          "title": "Other apps"
         }
       ],
       "title": "Desktop apps"
@@ -514,7 +587,7 @@
                     "last_commit": "2026-08-21T16:51:38Z",
                     "owner": "XayahSuSuSu",
                     "repo": "Android-DataBackup",
-                    "stars": 7259
+                    "stars": 7260
                   }
                 },
                 {
@@ -526,10 +599,10 @@
                     "archived": false,
                     "id": 60561834,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-23T22:48:12Z",
+                    "last_commit": "2026-08-24T09:04:40Z",
                     "owner": "nextcloud",
                     "repo": "android",
-                    "stars": 5524
+                    "stars": 5526
                   }
                 },
                 {
@@ -544,7 +617,7 @@
                     "last_commit": "2025-11-16T12:31:49Z",
                     "owner": "newhinton",
                     "repo": "Round-Sync",
-                    "stars": 2323
+                    "stars": 2324
                   }
                 },
                 {
@@ -589,7 +662,7 @@
                     "last_commit": "2026-08-15T12:47:50Z",
                     "owner": "phpbg",
                     "repo": "easysync",
-                    "stars": 231
+                    "stars": 232
                   }
                 },
                 {
@@ -663,7 +736,7 @@
                     "last_commit": "2026-08-20T20:10:44Z",
                     "owner": "PhilippC",
                     "repo": "keepass2android",
-                    "stars": 6199
+                    "stars": 6200
                   }
                 },
                 {
@@ -678,7 +751,7 @@
                     "last_commit": "2026-08-23T06:50:37Z",
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2165
+                    "stars": 2168
                   }
                 },
                 {
@@ -690,7 +763,7 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-23T11:47:41Z",
+                    "last_commit": "2026-08-24T12:16:02Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
                     "stars": 1457
@@ -767,7 +840,7 @@
                     "last_commit": "2026-08-23T06:50:37Z",
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2165
+                    "stars": 2168
                   }
                 },
                 {
@@ -779,7 +852,7 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-23T11:47:41Z",
+                    "last_commit": "2026-08-24T12:16:02Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
                     "stars": 1457
@@ -801,6 +874,50 @@
     {
       "description": "Libraries for accessing a WebDAV storage and/or building a WebDAV server",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "neon",
+              "description": "An HTTP/1.1 and WebDAV client library with a C API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174311079,
+                "language": "C",
+                "last_commit": "2026-08-09T19:51:57Z",
+                "owner": "notroj",
+                "repo": "neon",
+                "stars": 165
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "webdav-client-cpp",
+              "description": "C++ WebDAV Client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31768081,
+                "language": "CMake",
+                "last_commit": "2024-05-01T16:41:02Z",
+                "owner": "CloudPolis",
+                "repo": "webdav-client-cpp",
+                "stars": 132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
         {
           "children": [
             {
@@ -837,6 +954,28 @@
           "description": null,
           "node_type": "group",
           "title": "Objective-C / iOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/saguiitay/WebDAVClient",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24854281,
+                "language": "C#",
+                "last_commit": "2026-05-01T12:22:01Z",
+                "owner": "saguiitay",
+                "repo": "WebDAVClient",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".Net"
         },
         {
           "children": [
@@ -946,7 +1085,7 @@
                 "archived": false,
                 "id": 425005420,
                 "language": "Kotlin",
-                "last_commit": "2026-08-10T10:25:44Z",
+                "last_commit": "2026-08-24T09:35:56Z",
                 "owner": "bitfireAT",
                 "repo": "dav4jvm",
                 "stars": 103
@@ -1023,13 +1162,35 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript and Dart"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YaDiskClient",
+              "description": "a simple to use client for Yandex Disk.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16229831,
+                "language": "Python",
+                "last_commit": "2022-10-19T17:36:25Z",
+                "owner": "TyVik",
+                "repo": "YaDiskClient",
+                "stars": 61
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:33:32.360Z",
+    "last_updated": "2026-08-24T14:21:21.760Z",
     "original_repository": "fstanis/awesome-webdav",
     "original_repository_id": 315486610,
     "original_repository_sha": "b5e5c4e32093c186f53b84d9a985c8c1b720b209",
