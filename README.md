@@ -65,7 +65,7 @@ A curated list of awesome apps that support the WebDAV protocol ([RFC 4918](http
 
 *Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions*
 
-* [copyparty](https://github.com/9001/copyparty) ⭐ 46,361 | 🐛 254 | 🌐 Python | 📅 2026-08-23 - a portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails. It has an [Android app](https://f-droid.org/packages/me.ocv.partyup/).  `MIT` `Python`
+* [copyparty](https://github.com/9001/copyparty) ⭐ 46,362 | 🐛 254 | 🌐 Python | 📅 2026-08-23 - a portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails. It has an [Android app](https://f-droid.org/packages/me.ocv.partyup/).  `MIT` `Python`
 * [Stalwart](https://github.com/stalwartlabs/stalwart) ⭐ 14,328 | 🐛 73 | 🌐 Rust | 📅 2026-08-24 - Open-source Mailserver and WebDAV, CalDAV and CardDAV server written in Rust.
 * [SFTPGo](https://github.com/drakkan/sftpgo) ⭐ 12,444 | 🐛 173 | 🌐 Go | 📅 2026-08-24 - SFTP server with optional FTP/S and WebDAV support.
 * [miniserve](https://github.com/svenstaro/miniserve) ⭐ 7,814 | 🐛 91 | 🌐 Rust | 📅 2026-08-01 - A file sharing server, supports read-only WebDAV
@@ -87,7 +87,7 @@ A curated list of awesome apps that support the WebDAV protocol ([RFC 4918](http
 * [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
 * [weborf](https://ltworf.github.io/weborf/) - a minimal HTTP server to share your files. Has a GUI [qweborf](https://ltworf.github.io/weborf/qweborf.html).
 * "Written in Rust". They all are similar to weborf by functionality but more advanced and fancy
-  * [sigoden/dufs](https://github.com/sigoden/dufs) ⭐ 10,657 | 🐛 12 | 🌐 Rust | 📅 2026-06-29
+  * [sigoden/dufs](https://github.com/sigoden/dufs) ⭐ 10,658 | 🐛 12 | 🌐 Rust | 📅 2026-06-29
   * [thecoshman/http](https://github.com/thecoshman/http) ⭐ 493 | 🐛 6 | 🌐 Rust | 📅 2026-08-07
   * [messense/dav-server-rs](https://github.com/messense/dav-server-rs) ⭐ 241 | 🐛 2 | 🌐 Rust | 📅 2026-05-04 library for WebDAV and there are a lot of [small webservers based on it](https://github.com/messense/dav-server-rs/network/dependents) ⭐ 241 | 🐛 2 | 🌐 Rust | 📅 2026-05-04.
 
@@ -189,7 +189,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 *Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync*
 
-* [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24. `AL2` `Dart`  `Apache-2.0`
+* [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,459 | 🐛 78 | 🌐 Dart | 📅 2026-08-25 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,459 | 🐛 78 | 🌐 Dart | 📅 2026-08-25. `AL2` `Dart`  `Apache-2.0`
 * [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
 * [Cryptomator](https://cryptomator.org/) - a tool to encrypt files and backup.
 * [KODI](https://kodi.tv/) - An advanced media player for smart TV: Raspberry Pi, Android, tvOS.
@@ -251,7 +251,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 * [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android) ⭐ 6,200 | 🐛 1,163 | 🌐 C# | 📅 2026-08-20. `GPL3`
 * [BeeCount](https://github.com/TNT-Likely/BeeCount) ⭐ 2,174 | 🐛 111 | 🌐 Dart | 📅 2026-08-23 – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. `Source-Available` `Dart`
-* [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24. `AL2` `Dart`  `Apache-2.0`
+* [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,459 | 🐛 78 | 🌐 Dart | 📅 2026-08-25 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,459 | 🐛 78 | 🌐 Dart | 📅 2026-08-25. `AL2` `Dart`  `Apache-2.0`
 * [SimpleTask](https://github.com/mpcjanssen/simpletask-android) ⚠️ Archived - a simple task manager. `GPL3` `Kotlin`
 * [ntodotxt](https://github.com/tmaegel/ntodotxt) ⭐ 220 | 🐛 41 | 🌐 Dart | 📅 2026-08-14 - TODO App with sync via WebDAV. `MIT`
 * [pokatomnik/Davno](https://github.com/pokatomnik/Davno) ⭐ 1 | 🐛 1 | 🌐 Kotlin | 📅 2023-03-30 - Web**DAV NO**tes, Android app, unfinished. `WIP`, `Kotlin`
@@ -281,7 +281,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 *Apps that support WebDAV in some form, e.g. for backup and sync*
 
 * [BeeCount](https://apps.apple.com/app/id6754611670) – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. [Source](https://github.com/TNT-Likely/BeeCount) ⭐ 2,174 | 🐛 111 | 🌐 Dart | 📅 2026-08-23. `Source-Available` `Dart`
-* [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24. `AL2` `Dart`  `Apache-2.0`
+* [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,459 | 🐛 78 | 🌐 Dart | 📅 2026-08-25 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,459 | 🐛 78 | 🌐 Dart | 📅 2026-08-25. `AL2` `Dart`  `Apache-2.0`
 * [1Writer](https://apps.apple.com/app/1writer-markdown-text-editor/id680469088) - Markdown text editor that supports importing from WebDAV.
 * [beorg](https://apps.apple.com/app/beorg-to-do-list-agenda/id1238649962) - TO-DO list and agenda app with WebDAV sync support.
 * [GoodReader](https://apps.apple.com/app/goodreader-pdf-editor-viewer/id777310222) - PDF viewer and editor that supports WebDAV sync.

@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T22:28:58Z",
                 "owner": "9001",
                 "repo": "copyparty",
-                "stars": 46361
+                "stars": 46362
               }
             },
             {
@@ -217,7 +217,7 @@
                     "last_commit": "2026-06-29T12:01:47Z",
                     "owner": "sigoden",
                     "repo": "dufs",
-                    "stars": 10657
+                    "stars": 10658
                   }
                 },
                 {
@@ -554,10 +554,10 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-24T12:16:02Z",
+                "last_commit": "2026-08-25T06:20:50Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1458
+                "stars": 1459
               }
             }
           ],
@@ -763,10 +763,10 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-24T12:16:02Z",
+                    "last_commit": "2026-08-25T06:20:50Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1458
+                    "stars": 1459
                   }
                 },
                 {
@@ -852,10 +852,10 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-24T12:16:02Z",
+                    "last_commit": "2026-08-25T06:20:50Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1458
+                    "stars": 1459
                   }
                 }
               ],
@@ -1190,7 +1190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:27.888Z",
+    "last_updated": "2026-08-25T06:40:51.076Z",
     "original_repository": "fstanis/awesome-webdav",
     "original_repository_id": 315486610,
     "original_repository_sha": "b5e5c4e32093c186f53b84d9a985c8c1b720b209",
