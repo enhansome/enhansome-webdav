@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T22:28:58Z",
                 "owner": "9001",
                 "repo": "copyparty",
-                "stars": 46396
+                "stars": 46415
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 610292163,
                 "language": "Rust",
-                "last_commit": "2026-08-25T17:34:35Z",
+                "last_commit": "2026-08-27T10:13:32Z",
                 "owner": "stalwartlabs",
                 "repo": "stalwart",
-                "stars": 14345
+                "stars": 14368
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 197914161,
                 "language": "Go",
-                "last_commit": "2026-08-24T19:44:36Z",
+                "last_commit": "2026-08-26T13:46:15Z",
                 "owner": "drakkan",
                 "repo": "sftpgo",
-                "stars": 12450
+                "stars": 12456
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-01T02:55:24Z",
                 "owner": "svenstaro",
                 "repo": "miniserve",
-                "stars": 7817
+                "stars": 7816
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 99202994,
                 "language": "Go",
-                "last_commit": "2026-08-25T19:40:04Z",
+                "last_commit": "2026-08-26T23:58:13Z",
                 "owner": "hacdias",
                 "repo": "webdav",
-                "stars": 5801
+                "stars": 5802
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-07-30T07:26:40Z",
                 "owner": "tchapi",
                 "repo": "davis",
-                "stars": 742
+                "stars": 743
               }
             },
             {
@@ -217,7 +217,7 @@
                     "last_commit": "2026-06-29T12:01:47Z",
                     "owner": "sigoden",
                     "repo": "dufs",
-                    "stars": 10659
+                    "stars": 10663
                   }
                 },
                 {
@@ -301,10 +301,10 @@
             "archived": false,
             "id": 78243781,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:55:56Z",
+            "last_commit": "2026-08-26T17:48:39Z",
             "owner": "super-productivity",
             "repo": "super-productivity",
-            "stars": 21600
+            "stars": 21625
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-05-08T03:29:03Z",
             "owner": "keeweb",
             "repo": "keeweb",
-            "stars": 12986
+            "stars": 12988
           }
         },
         {
@@ -331,7 +331,7 @@
             "archived": false,
             "id": 80358021,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T15:31:00Z",
+            "last_commit": "2026-08-26T15:46:08Z",
             "owner": "icidasset",
             "repo": "diffuse",
             "stars": 874
@@ -495,7 +495,7 @@
                 "archived": false,
                 "id": 65415224,
                 "language": "C++",
-                "last_commit": "2026-08-25T21:41:55Z",
+                "last_commit": "2026-08-27T07:23:19Z",
                 "owner": "elfmz",
                 "repo": "far2l",
                 "stars": 2210
@@ -517,10 +517,10 @@
                 "archived": false,
                 "id": 22636263,
                 "language": "C#",
-                "last_commit": "2026-08-25T15:38:50Z",
+                "last_commit": "2026-08-27T09:23:03Z",
                 "owner": "duplicati",
                 "repo": "duplicati",
-                "stars": 14937
+                "stars": 14938
               }
             },
             {
@@ -554,10 +554,10 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-25T07:21:32Z",
+                "last_commit": "2026-08-27T04:15:08Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1459
+                "stars": 1458
               }
             }
           ],
@@ -584,10 +584,10 @@
                     "archived": false,
                     "id": 430540203,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-21T16:51:38Z",
+                    "last_commit": "2026-08-26T10:51:31Z",
                     "owner": "XayahSuSuSu",
                     "repo": "Android-DataBackup",
-                    "stars": 7266
+                    "stars": 7271
                   }
                 },
                 {
@@ -599,10 +599,10 @@
                     "archived": false,
                     "id": 60561834,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T05:57:13Z",
+                    "last_commit": "2026-08-27T11:50:41Z",
                     "owner": "nextcloud",
                     "repo": "android",
-                    "stars": 5527
+                    "stars": 5533
                   }
                 },
                 {
@@ -617,7 +617,7 @@
                     "last_commit": "2025-11-16T12:31:49Z",
                     "owner": "newhinton",
                     "repo": "Round-Sync",
-                    "stars": 2323
+                    "stars": 2326
                   }
                 },
                 {
@@ -696,7 +696,7 @@
                     "archived": false,
                     "id": 133509731,
                     "language": "HTML",
-                    "last_commit": "2026-08-25T17:12:26Z",
+                    "last_commit": "2026-08-26T20:08:20Z",
                     "owner": "nova-video-player",
                     "repo": "aos-AVP",
                     "stars": 4634
@@ -736,7 +736,7 @@
                     "last_commit": "2026-08-20T20:10:44Z",
                     "owner": "PhilippC",
                     "repo": "keepass2android",
-                    "stars": 6202
+                    "stars": 6205
                   }
                 },
                 {
@@ -751,7 +751,7 @@
                     "last_commit": "2026-08-23T06:50:37Z",
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2184
+                    "stars": 2196
                   }
                 },
                 {
@@ -763,10 +763,10 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-25T07:21:32Z",
+                    "last_commit": "2026-08-27T04:15:08Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1459
+                    "stars": 1458
                   }
                 },
                 {
@@ -811,7 +811,7 @@
                     "last_commit": "2023-03-30T23:35:35Z",
                     "owner": "pokatomnik",
                     "repo": "Davno",
-                    "stars": 1
+                    "stars": 2
                   }
                 }
               ],
@@ -840,7 +840,7 @@
                     "last_commit": "2026-08-23T06:50:37Z",
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2184
+                    "stars": 2196
                   }
                 },
                 {
@@ -852,10 +852,10 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-25T07:21:32Z",
+                    "last_commit": "2026-08-27T04:15:08Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1459
+                    "stars": 1458
                   }
                 }
               ],
@@ -1055,7 +1055,7 @@
                 "archived": false,
                 "id": 4853770,
                 "language": "Java",
-                "last_commit": "2026-08-12T11:10:13Z",
+                "last_commit": "2026-08-26T14:38:14Z",
                 "owner": "miltonio",
                 "repo": "milton2",
                 "stars": 211
@@ -1085,7 +1085,7 @@
                 "archived": false,
                 "id": 425005420,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T09:35:56Z",
+                "last_commit": "2026-08-27T10:19:23Z",
                 "owner": "bitfireAT",
                 "repo": "dav4jvm",
                 "stars": 103
@@ -1190,9 +1190,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:27:01.566Z",
-    "original_repository": "fstanis/awesome-webdav",
-    "original_repository_id": 315486610,
+    "last_updated": "2026-08-27T12:10:38.712Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 315486610,
+      "language": null,
+      "last_commit": "2026-07-16T18:23:46Z",
+      "owner": "fstanis",
+      "repo": "awesome-webdav",
+      "stars": 538
+    },
     "original_repository_sha": "b5e5c4e32093c186f53b84d9a985c8c1b720b209",
     "enhanced_repository": "enhansome/enhansome-webdav",
     "enhanced_repository_description": null,
