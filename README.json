@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-23T22:28:58Z",
                 "owner": "9001",
                 "repo": "copyparty",
-                "stars": 46419
-              }
+                "stars": 46428
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 610292163,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:13:32Z",
+                "last_commit": "2026-08-28T16:03:02Z",
                 "owner": "stalwartlabs",
                 "repo": "stalwart",
-                "stars": 14372
-              }
+                "stars": 14383
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 197914161,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:41:19Z",
+                "last_commit": "2026-08-27T17:05:46Z",
                 "owner": "drakkan",
                 "repo": "sftpgo",
-                "stars": 12457
-              }
+                "stars": 12462
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-01T02:55:24Z",
                 "owner": "svenstaro",
                 "repo": "miniserve",
-                "stars": 7817
-              }
+                "stars": 7821
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 99202994,
                 "language": "Go",
-                "last_commit": "2026-08-26T23:58:13Z",
+                "last_commit": "2026-08-28T13:36:23Z",
                 "owner": "hacdias",
                 "repo": "webdav",
-                "stars": 5803
-              }
+                "stars": 5809
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "tchapi",
                 "repo": "davis",
                 "stars": 743
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "micromata",
                 "repo": "dave",
                 "stars": 376
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "haiwen",
                 "repo": "seafdav",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "rexzhang",
                 "repo": "asgi-webdav",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "sciactive",
                 "repo": "quickdav",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "tolsen",
                 "repo": "limestone",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "tolsen",
                 "repo": "limeberry",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "a-langer",
                 "repo": "webdav-vfs-gate",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "group",
@@ -218,7 +231,8 @@
                     "owner": "sigoden",
                     "repo": "dufs",
                     "stars": 10663
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -233,7 +247,8 @@
                     "owner": "thecoshman",
                     "repo": "http",
                     "stars": 493
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -248,7 +263,8 @@
                     "owner": "messense",
                     "repo": "dav-server-rs",
                     "stars": 241
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 }
               ]
             }
@@ -277,7 +293,8 @@
                     "owner": "arut",
                     "repo": "nginx-dav-ext-module",
                     "stars": 511
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 }
               ]
             }
@@ -301,11 +318,12 @@
             "archived": false,
             "id": 78243781,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:59:29Z",
+            "last_commit": "2026-08-28T17:23:25Z",
             "owner": "super-productivity",
             "repo": "super-productivity",
-            "stars": 21628
-          }
+            "stars": 21642
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -320,7 +338,8 @@
             "owner": "keeweb",
             "repo": "keeweb",
             "stars": 12988
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -331,11 +350,12 @@
             "archived": false,
             "id": 80358021,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:57:25Z",
+            "last_commit": "2026-08-28T14:49:51Z",
             "owner": "icidasset",
             "repo": "diffuse",
-            "stars": 874
-          }
+            "stars": 875
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -350,7 +370,8 @@
             "owner": "mnutt",
             "repo": "davros",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -365,7 +386,8 @@
             "owner": "crowdwave",
             "repo": "reactoxide",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -380,7 +402,8 @@
             "owner": "dom111",
             "repo": "webdav-js",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -395,7 +418,8 @@
             "owner": "WebDAVDevs",
             "repo": "webdav-browser-extension",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -410,7 +434,8 @@
             "owner": "rainu",
             "repo": "dev-notes",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -425,7 +450,8 @@
             "owner": "katomaso",
             "repo": "webdave",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         }
       ],
       "title": "PWA and online apps"
@@ -446,7 +472,8 @@
             "owner": "StefH",
             "repo": "WebDAV-AudioPlayer",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -461,7 +488,8 @@
             "owner": "tolsen",
             "repo": "Prestan",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         },
         {
           "node_type": "item",
@@ -476,7 +504,8 @@
             "owner": "tolsen",
             "repo": "rubydav",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:49:09.671Z"
         }
       ],
       "title": "Command line tools"
@@ -495,11 +524,12 @@
                 "archived": false,
                 "id": 65415224,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:23:19Z",
+                "last_commit": "2026-08-28T12:23:10Z",
                 "owner": "elfmz",
                 "repo": "far2l",
                 "stars": 2210
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": "General purpose apps to browse and manage files on a WebDAV server",
@@ -517,11 +547,12 @@
                 "archived": false,
                 "id": 22636263,
                 "language": "C#",
-                "last_commit": "2026-08-27T15:04:01Z",
+                "last_commit": "2026-08-28T15:51:52Z",
                 "owner": "duplicati",
                 "repo": "duplicati",
-                "stars": 14939
-              }
+                "stars": 14943
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -536,7 +567,8 @@
                 "owner": "simatec",
                 "repo": "ioBroker.backitup",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": "Apps used for backup and/or synchronizing data between multiple destinations",
@@ -554,11 +586,12 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-27T15:48:26Z",
+                "last_commit": "2026-08-28T13:51:08Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1460
-              }
+                "stars": 1495
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": "Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync",
@@ -584,11 +617,12 @@
                     "archived": false,
                     "id": 430540203,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T10:51:31Z",
+                    "last_commit": "2026-08-27T21:51:28Z",
                     "owner": "XayahSuSuSu",
                     "repo": "Android-DataBackup",
-                    "stars": 7273
-                  }
+                    "stars": 7277
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -599,11 +633,12 @@
                     "archived": false,
                     "id": 60561834,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T15:26:01Z",
+                    "last_commit": "2026-08-28T15:45:12Z",
                     "owner": "nextcloud",
                     "repo": "android",
-                    "stars": 5535
-                  }
+                    "stars": 5539
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -617,8 +652,9 @@
                     "last_commit": "2025-11-16T12:31:49Z",
                     "owner": "newhinton",
                     "repo": "Round-Sync",
-                    "stars": 2327
-                  }
+                    "stars": 2328
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -632,8 +668,9 @@
                     "last_commit": "2023-11-26T21:55:00Z",
                     "owner": "x0b",
                     "repo": "rcx",
-                    "stars": 2035
-                  }
+                    "stars": 2036
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -648,7 +685,8 @@
                     "owner": "alexbakker",
                     "repo": "webdav-provider",
                     "stars": 261
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -663,7 +701,8 @@
                     "owner": "phpbg",
                     "repo": "easysync",
                     "stars": 232
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -678,7 +717,8 @@
                     "owner": "ndl",
                     "repo": "wedaban",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 }
               ],
               "description": "General purpose apps to browse and manage files on a WebDAV server",
@@ -699,8 +739,9 @@
                     "last_commit": "2026-08-26T20:08:20Z",
                     "owner": "nova-video-player",
                     "repo": "aos-AVP",
-                    "stars": 4636
-                  }
+                    "stars": 4635
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -715,7 +756,8 @@
                     "owner": "danfr",
                     "repo": "webdav-player",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 }
               ],
               "description": null,
@@ -736,8 +778,9 @@
                     "last_commit": "2026-08-20T20:10:44Z",
                     "owner": "PhilippC",
                     "repo": "keepass2android",
-                    "stars": 6205
-                  }
+                    "stars": 6207
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -751,8 +794,9 @@
                     "last_commit": "2026-08-23T06:50:37Z",
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2198
-                  }
+                    "stars": 2201
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -763,11 +807,12 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-27T15:48:26Z",
+                    "last_commit": "2026-08-28T13:51:08Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1460
-                  }
+                    "stars": 1495
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -782,7 +827,8 @@
                     "owner": "mpcjanssen",
                     "repo": "simpletask-android",
                     "stars": 563
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -797,7 +843,8 @@
                     "owner": "tmaegel",
                     "repo": "ntodotxt",
                     "stars": 220
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -812,7 +859,8 @@
                     "owner": "pokatomnik",
                     "repo": "Davno",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 }
               ],
               "description": "Apps that support WebDAV in some form, e.g. for backup and sync",
@@ -840,8 +888,9 @@
                     "last_commit": "2026-08-23T06:50:37Z",
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2198
-                  }
+                    "stars": 2201
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 },
                 {
                   "node_type": "item",
@@ -852,11 +901,12 @@
                     "archived": false,
                     "id": 632693436,
                     "language": "Dart",
-                    "last_commit": "2026-08-27T15:48:26Z",
+                    "last_commit": "2026-08-28T13:51:08Z",
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1460
-                  }
+                    "stars": 1495
+                  },
+                  "first_seen": "2026-08-28T17:49:09.671Z"
                 }
               ],
               "description": "Apps that support WebDAV in some form, e.g. for backup and sync",
@@ -889,7 +939,8 @@
                 "owner": "notroj",
                 "repo": "neon",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -911,7 +962,8 @@
                 "owner": "CloudPolis",
                 "repo": "webdav-client-cpp",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -933,7 +985,8 @@
                 "owner": "mattrajca",
                 "repo": "DAVKit",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -948,7 +1001,8 @@
                 "owner": "zwaldowski",
                 "repo": "DZWebDAVClient",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -970,7 +1024,8 @@
                 "owner": "saguiitay",
                 "repo": "WebDAVClient",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -991,8 +1046,9 @@
                 "last_commit": "2026-06-28T10:28:23Z",
                 "owner": "emersion",
                 "repo": "go-webdav",
-                "stars": 495
-              }
+                "stars": 496
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1063,8 @@
                 "owner": "studio-b12",
                 "repo": "gowebdav",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -1029,7 +1086,8 @@
                 "owner": "lookfirst",
                 "repo": "sardine",
                 "stars": 623
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1044,7 +1102,8 @@
                 "owner": "thegrizzlylabs",
                 "repo": "sardine-android",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1059,7 +1118,8 @@
                 "owner": "miltonio",
                 "repo": "milton2",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1074,7 +1134,8 @@
                 "owner": "owncloud",
                 "repo": "android-library",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1089,7 +1150,8 @@
                 "owner": "bitfireAT",
                 "repo": "dav4jvm",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -1111,7 +1173,8 @@
                 "owner": "perry-mitchell",
                 "repo": "webdav-client",
                 "stars": 814
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1126,7 +1189,8 @@
                 "owner": "mikedeboer",
                 "repo": "jsDAV",
                 "stars": 679
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1141,7 +1205,8 @@
                 "owner": "silexlabs",
                 "repo": "unifile",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             },
             {
               "node_type": "item",
@@ -1156,7 +1221,8 @@
                 "owner": "FriesI23",
                 "repo": "simple_webdav_client",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -1178,7 +1244,8 @@
                 "owner": "TyVik",
                 "repo": "YaDiskClient",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T17:49:09.671Z"
             }
           ],
           "description": null,
@@ -1190,7 +1257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:59:37.826Z",
+    "last_updated": "2026-08-28T17:49:09.671Z",
     "original_repository_info": {
       "archived": false,
       "id": 315486610,
