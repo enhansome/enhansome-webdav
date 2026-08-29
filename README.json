@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "9001",
                 "repo": "copyparty",
-                "stars": 46432,
+                "stars": 46435,
                 "topics": [
                   "copyparty",
                   "file-server",
@@ -51,7 +51,7 @@
                 "open_issues": 71,
                 "owner": "stalwartlabs",
                 "repo": "stalwart",
-                "stars": 14384,
+                "stars": 14386,
                 "topics": [
                   "caldav",
                   "carddav",
@@ -83,7 +83,7 @@
                 "open_issues": 172,
                 "owner": "drakkan",
                 "repo": "sftpgo",
-                "stars": 12462,
+                "stars": 12464,
                 "topics": [
                   "azure-blob",
                   "cloud-storage",
@@ -377,7 +377,7 @@
                     "open_issues": 13,
                     "owner": "sigoden",
                     "repo": "dufs",
-                    "stars": 10665,
+                    "stars": 10666,
                     "topics": [
                       "cloud-disk",
                       "command-line",
@@ -503,11 +503,11 @@
             "id": 78243781,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T21:25:24Z",
-            "open_issues": 1450,
+            "last_commit": "2026-08-29T11:53:06Z",
+            "open_issues": 1442,
             "owner": "super-productivity",
             "repo": "super-productivity",
-            "stars": 21649,
+            "stars": 21652,
             "topics": [
               "android",
               "flowmodoro",
@@ -835,11 +835,11 @@
                 "id": 65415224,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T21:59:58Z",
+                "last_commit": "2026-08-29T09:29:10Z",
                 "open_issues": 470,
                 "owner": "elfmz",
                 "repo": "far2l",
-                "stars": 2211,
+                "stars": 2210,
                 "topics": [
                   "filemanager",
                   "linux",
@@ -869,11 +869,11 @@
                 "id": 22636263,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:46:51Z",
-                "open_issues": 637,
+                "last_commit": "2026-08-29T10:18:33Z",
+                "open_issues": 633,
                 "owner": "duplicati",
                 "repo": "duplicati",
-                "stars": 14944,
+                "stars": 14943,
                 "topics": [
                   "backup",
                   "c-sharp",
@@ -955,7 +955,7 @@
                 "open_issues": 78,
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1500,
+                "stars": 1506,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -1012,7 +1012,7 @@
                     "open_issues": 187,
                     "owner": "XayahSuSuSu",
                     "repo": "Android-DataBackup",
-                    "stars": 7279,
+                    "stars": 7278,
                     "topics": [
                       "android",
                       "backup",
@@ -1070,7 +1070,7 @@
                     "open_issues": 193,
                     "owner": "newhinton",
                     "repo": "Round-Sync",
-                    "stars": 2334,
+                    "stars": 2336,
                     "topics": [
                       "android",
                       "app",
@@ -1129,7 +1129,7 @@
                     "open_issues": 3,
                     "owner": "alexbakker",
                     "repo": "webdav-provider",
-                    "stars": 261,
+                    "stars": 260,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:49:09.671Z"
@@ -1198,11 +1198,11 @@
                     "id": 133509731,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T18:24:35Z",
-                    "open_issues": 945,
+                    "last_commit": "2026-08-29T09:40:30Z",
+                    "open_issues": 943,
                     "owner": "nova-video-player",
                     "repo": "aos-AVP",
-                    "stars": 4635,
+                    "stars": 4636,
                     "topics": [
                       "android",
                       "archos",
@@ -1258,7 +1258,7 @@
                     "open_issues": 1165,
                     "owner": "PhilippC",
                     "repo": "keepass2android",
-                    "stars": 6207,
+                    "stars": 6206,
                     "topics": [
                       "android",
                       "keepass",
@@ -1285,7 +1285,7 @@
                     "open_issues": 112,
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2205,
+                    "stars": 2207,
                     "topics": [
                       "accounting",
                       "ai",
@@ -1324,7 +1324,7 @@
                     "open_issues": 78,
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1500,
+                    "stars": 1506,
                     "topics": [
                       "android",
                       "cross-platform",
@@ -1456,7 +1456,7 @@
                     "open_issues": 112,
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2205,
+                    "stars": 2207,
                     "topics": [
                       "accounting",
                       "ai",
@@ -1495,7 +1495,7 @@
                     "open_issues": 78,
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1500,
+                    "stars": 1506,
                     "topics": [
                       "android",
                       "cross-platform",
@@ -2022,7 +2022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:26.252Z",
+    "last_updated": "2026-08-29T11:53:35.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps that support WebDAV and tools related to it.",
