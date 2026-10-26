@@ -65,12 +65,12 @@ A curated list of awesome apps that support the WebDAV protocol ([RFC 4918](http
 
 *Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions*
 
-* [copyparty](https://github.com/9001/copyparty) ⭐ 47,121 | 🐛 260 | 🌐 Python | 📅 2026-10-21 - a portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails. It has an [Android app](https://f-droid.org/packages/me.ocv.partyup/).  `MIT` `Python`
-* [Stalwart](https://github.com/stalwartlabs/stalwart) ⭐ 15,294 | 🐛 54 | 🌐 Rust | 📅 2026-10-20 - Open-source Mailserver and WebDAV, CalDAV and CardDAV server written in Rust.
-* [SFTPGo](https://github.com/drakkan/sftpgo) ⭐ 12,704 | 🐛 181 | 🌐 Go | 📅 2026-10-22 - SFTP server with optional FTP/S and WebDAV support.
-* [miniserve](https://github.com/svenstaro/miniserve) ⭐ 7,923 | 🐛 95 | 🌐 Rust | 📅 2026-10-01 - A file sharing server, supports read-only WebDAV
-* [hacdias-webdav](https://github.com/hacdias/webdav) ⭐ 5,942 | 🐛 14 | 🌐 Go | 📅 2026-10-24 - A simple yet configurable WebDAV server written in Go.
-* [Davis](https://github.com/tchapi/davis) ⭐ 761 | 🐛 12 | 🌐 PHP | 📅 2026-10-24 - a simple interfacefor `sabre/dav` based on `Symfony` and `Bootstrap`, largely inspired by `Baïkal`.
+* [copyparty](https://github.com/9001/copyparty) ⭐ 47,137 | 🐛 261 | 🌐 Python | 📅 2026-10-21 - a portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails. It has an [Android app](https://f-droid.org/packages/me.ocv.partyup/).  `MIT` `Python`
+* [Stalwart](https://github.com/stalwartlabs/stalwart) ⭐ 15,298 | 🐛 54 | 🌐 Rust | 📅 2026-10-20 - Open-source Mailserver and WebDAV, CalDAV and CardDAV server written in Rust.
+* [SFTPGo](https://github.com/drakkan/sftpgo) ⭐ 12,708 | 🐛 182 | 🌐 Go | 📅 2026-10-22 - SFTP server with optional FTP/S and WebDAV support.
+* [miniserve](https://github.com/svenstaro/miniserve) ⭐ 7,927 | 🐛 95 | 🌐 Rust | 📅 2026-10-01 - A file sharing server, supports read-only WebDAV
+* [hacdias-webdav](https://github.com/hacdias/webdav) ⭐ 5,945 | 🐛 14 | 🌐 Go | 📅 2026-10-24 - A simple yet configurable WebDAV server written in Go.
+* [Davis](https://github.com/tchapi/davis) ⭐ 761 | 🐛 13 | 🌐 PHP | 📅 2026-10-25 - a simple interfacefor `sabre/dav` based on `Symfony` and `Bootstrap`, largely inspired by `Baïkal`.
 * [dave](https://github.com/micromata/dave/) ⚠️ Archived - a simple WebDAV server written in Go. `Apache-2.0` `Golang`
 * [Seafile](https://github.com/haiwen/seafdav) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2026-10-13 - A webdav server written in Python
 * [asgi-webdav](https://github.com/rexzhang/asgi-webdav) ⭐ 90 | 🐛 11 | 🌐 Python | 📅 2026-10-19 - an asynchronous WebDAV server, Support multi-provider, multi-account and permission control. `MIT` `Python`
@@ -87,7 +87,7 @@ A curated list of awesome apps that support the WebDAV protocol ([RFC 4918](http
 * [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
 * [weborf](https://ltworf.github.io/weborf/) - a minimal HTTP server to share your files. Has a GUI [qweborf](https://ltworf.github.io/weborf/qweborf.html).
 * "Written in Rust". They all are similar to weborf by functionality but more advanced and fancy
-  * [sigoden/dufs](https://github.com/sigoden/dufs) ⭐ 10,979 | 🐛 2 | 🌐 Rust | 📅 2026-10-22
+  * [sigoden/dufs](https://github.com/sigoden/dufs) ⭐ 10,982 | 🐛 2 | 🌐 Rust | 📅 2026-10-22
   * [thecoshman/http](https://github.com/thecoshman/http) ⭐ 494 | 🐛 6 | 🌐 Rust | 📅 2026-08-07
   * [messense/dav-server-rs](https://github.com/messense/dav-server-rs) ⭐ 243 | 🐛 2 | 🌐 Rust | 📅 2026-10-12 library for WebDAV and there are a lot of [small webservers based on it](https://github.com/messense/dav-server-rs/network/dependents) ⭐ 243 | 🐛 2 | 🌐 Rust | 📅 2026-10-12.
 
@@ -117,9 +117,9 @@ A curated list of awesome apps that support the WebDAV protocol ([RFC 4918](http
 Online apps that can connect directly to your WebDAV share. You'll need a CORS enabled.
 See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito/0a6274106d407ba6d9fb776e7773445d)
 
-* [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity) ⭐ 23,127 | 🐛 1,479 | 🌐 TypeScript | 📅 2026-10-25.
-* [KeeWeb](https://app.keeweb.info/) - A password manager [Source code](https://github.com/keeweb/keeweb) ⭐ 13,023 | 🐛 440 | 🌐 HTML | 📅 2026-05-08
-* [Diffuse](https://diffuse.sh/) - an onine music player [Source code](https://github.com/icidasset/diffuse) ⭐ 872 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-24.
+* [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity) ⭐ 23,161 | 🐛 1,492 | 🌐 TypeScript | 📅 2026-10-26.
+* [KeeWeb](https://app.keeweb.info/) - A password manager [Source code](https://github.com/keeweb/keeweb) ⭐ 13,026 | 🐛 440 | 🌐 HTML | 📅 2026-05-08
+* [Diffuse](https://diffuse.sh/) - an onine music player [Source code](https://github.com/icidasset/diffuse) ⭐ 872 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-25.
 * [Davros](https://github.com/mnutt/davros) ⭐ 301 | 🐛 56 | 🌐 JavaScript | 📅 2026-10-22 - a web file manager in NodeJS that uses WebDAV as a protocol. Used by [Sandstorm.io](https://sandtorm.io)
 * [OxIDE](https://github.com/bootrino/reactoxide) ⚠️ Archived - a simple code editor that you can add to your ReactJS projects. `MIT` `TypeScript`
 * [webdav-js](https://github.com/dom111/webdav-js) ⭐ 111 | 🐛 33 | 🌐 TypeScript | 📅 2024-02-26 - A simple WebDAV file manager for use as a bookmarklet, or integration into a web server. May be used as a simplest in-browser UI
@@ -154,7 +154,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 *General purpose apps to browse and manage files on a WebDAV server*
 
-* [far2l](https://github.com/elfmz/far2l) ⭐ 2,228 | 🐛 490 | 🌐 C++ | 📅 2026-10-24 - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
+* [far2l](https://github.com/elfmz/far2l) ⭐ 2,228 | 🐛 488 | 🌐 C++ | 📅 2026-10-26 - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
 * [AnyStorage](https://anystorage.dev/webdav-client) - Desktop client for WebDAV, S3-compatible and cloud drive storage that can also expose all connected storage through a local WebDAV server for mounting (for Windows, Mac and Linux). `Proprietary`
 * [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 * [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
@@ -180,8 +180,8 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 *Apps used for backup and/or synchronizing data between multiple destinations*
 
-* [Duplicati](https://github.com/duplicati/duplicati) ⭐ 15,164 | 🐛 584 | 🌐 C# | 📅 2026-10-25 - Supports WebDAV as a backup target (for Windows, Mac and Linux).
-* [ioBroker.backitup](https://github.com/simatec/ioBroker.backitup) ⭐ 72 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-21 - a module for ioBroker home automation.
+* [Duplicati](https://github.com/duplicati/duplicati) ⭐ 15,168 | 🐛 570 | 🌐 C# | 📅 2026-10-26 - Supports WebDAV as a backup target (for Windows, Mac and Linux).
+* [ioBroker.backitup](https://github.com/simatec/ioBroker.backitup) ⭐ 72 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-21 - a module for ioBroker home automation.
 * [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
 * [Duplicacy](https://duplicacy.com/) - Beta support for WebDAV as a backup target (for Windows, Mac and Linux).
 * [GNOME Déjà Dup](https://wiki.gnome.org/Apps/DejaDup) - Supports WebDAV as a backup target.
@@ -214,10 +214,10 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 *General purpose apps to browse and manage files on a WebDAV server*
 
-* [Android DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) ⭐ 7,489 | 🐛 192 | 🌐 Kotlin | 📅 2026-10-25
-* [NextCloud Android App](https://github.com/nextcloud/android) ⭐ 5,650 | 🐛 1,552 | 🌐 Kotlin | 📅 2026-10-25 `GPL-2.0`
-* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,404 | 🐛 196 | 🌐 Java | 📅 2025-11-16 Rclone sync for Android (fork of RCX). `GPL-3.0`
-* [RCX](https://github.com/x0b/rcx) ⭐ 2,064 | 🐛 144 | 🌐 Java | 📅 2023-11-26 Rclone sync for Android (unmaintained, use Round Sync). `GPL-3.0`
+* [Android DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) ⭐ 7,492 | 🐛 192 | 🌐 Kotlin | 📅 2026-10-25
+* [NextCloud Android App](https://github.com/nextcloud/android) ⭐ 5,651 | 🐛 1,555 | 🌐 Kotlin | 📅 2026-10-26 `GPL-2.0`
+* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,405 | 🐛 196 | 🌐 Java | 📅 2025-11-16 Rclone sync for Android (fork of RCX). `GPL-3.0`
+* [RCX](https://github.com/x0b/rcx) ⭐ 2,065 | 🐛 144 | 🌐 Java | 📅 2023-11-26 Rclone sync for Android (unmaintained, use Round Sync). `GPL-3.0`
 * [alexbakker/webdav-provider](https://github.com/alexbakker/webdav-provider) ⭐ 277 | 🐛 3 | 🌐 Kotlin | 📅 2026-07-25 - WebDAV storage to other apps through Android's Storage Access Framework (SAF). `GPL-3.0`
 * [EasySync](https://github.com/phpbg/easysync) ⭐ 239 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-10 - backup and sync files with WebDAV share. `MIT`
 * [ndl/wedaban](https://github.com/ndl/wedaban) ⭐ 2 | 🐛 0 | 🌐 Kotlin | 📅 2020-09-28 - an implementation of Android Backup API for backups to WebDAV servers. `WIP`
@@ -235,7 +235,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 #### Players
 
-* [NOVA](https://github.com/nova-video-player/aos-AVP) ⭐ 4,756 | 🐛 988 | 🌐 HTML | 📅 2026-10-24 - an open source video player with AndroidTV support. `Apache-2.0`
+* [NOVA](https://github.com/nova-video-player/aos-AVP) ⭐ 4,764 | 🐛 988 | 🌐 HTML | 📅 2026-10-25 - an open source video player with AndroidTV support. `Apache-2.0`
 * [danfr/webdav-player](https://github.com/danfr/webdav-player) ⚠️ Archived - access to remote WebDAV repository and play media files using VLC. `WIP`
 * [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. `Proprietary`
 * [Capriccio ](https://play.google.com/store/apps/details?id=me.ideariboso.capriccio) - a music player. `Proprietary`
@@ -250,8 +250,8 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 *Apps that support WebDAV in some form, e.g. for backup and sync*
 
-* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android) ⭐ 6,323 | 🐛 1,179 | 🌐 C# | 📅 2026-10-19. `GPL3`
-* [BeeCount](https://github.com/TNT-Likely/BeeCount) ⭐ 2,642 | 🐛 141 | 🌐 Dart | 📅 2026-10-25 – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. `Source-Available` `Dart`
+* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android) ⭐ 6,327 | 🐛 1,179 | 🌐 C# | 📅 2026-10-19. `GPL3`
+* [BeeCount](https://github.com/TNT-Likely/BeeCount) ⭐ 2,660 | 🐛 144 | 🌐 Dart | 📅 2026-10-26 – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. `Source-Available` `Dart`
 * [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,676 | 🐛 85 | 🌐 Dart | 📅 2026-10-24 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,676 | 🐛 85 | 🌐 Dart | 📅 2026-10-24. `AL2` `Dart`  `Apache-2.0`
 * [SimpleTask](https://github.com/mpcjanssen/simpletask-android) ⚠️ Archived - a simple task manager. `GPL3` `Kotlin`
 * [ntodotxt](https://github.com/tmaegel/ntodotxt) ⭐ 225 | 🐛 41 | 🌐 Dart | 📅 2026-08-14 - TODO App with sync via WebDAV. `MIT`
@@ -282,7 +282,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 *Apps that support WebDAV in some form, e.g. for backup and sync*
 
-* [BeeCount](https://apps.apple.com/app/id6754611670) – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. [Source](https://github.com/TNT-Likely/BeeCount) ⭐ 2,642 | 🐛 141 | 🌐 Dart | 📅 2026-10-25. `Source-Available` `Dart`
+* [BeeCount](https://apps.apple.com/app/id6754611670) – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. [Source](https://github.com/TNT-Likely/BeeCount) ⭐ 2,660 | 🐛 144 | 🌐 Dart | 📅 2026-10-26. `Source-Available` `Dart`
 * [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,676 | 🐛 85 | 🌐 Dart | 📅 2026-10-24 – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync) ⭐ 1,676 | 🐛 85 | 🌐 Dart | 📅 2026-10-24. `AL2` `Dart`  `Apache-2.0`
 * [1Writer](https://apps.apple.com/app/1writer-markdown-text-editor/id680469088) - Markdown text editor that supports importing from WebDAV.
 * [beorg](https://apps.apple.com/app/beorg-to-do-list-agenda/id1238649962) - TO-DO list and agenda app with WebDAV sync support.
@@ -321,11 +321,11 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 ### Java
 
-* [sardine](https://github.com/lookfirst/sardine) ⭐ 621 | 🐛 23 | 🌐 Java | 📅 2026-03-09 - Java client based on Apache HTTP Client. `Apache-2.0`
+* [sardine](https://github.com/lookfirst/sardine) ⭐ 622 | 🐛 23 | 🌐 Java | 📅 2026-03-09 - Java client based on Apache HTTP Client. `Apache-2.0`
 * [sardine-android](https://github.com/thegrizzlylabs/sardine-android) ⭐ 396 | 🐛 19 | 🌐 Java | 📅 2024-02-14 - a WebDAV client for Android based on OkHttp. `Apache-2.0`
 * [milton2](https://github.com/miltonio/milton2) ⭐ 213 | 🐛 14 | 🌐 Java | 📅 2026-10-16 - Milton Java WebDAV / CalDAV / CardDAV Server Library. `Apache-2.0`
 * [owncloud/android-library](https://github.com/owncloud/android-library) ⚠️ Archived - an ownCloud library that internally use WebDAV over OkHttp. `MIT`
-* [dav4jvm](https://github.com/bitfireAT/dav4jvm) ⭐ 104 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-22 - dav4jvm is a WebDAV/CalDAV/CardDAV library for JVM (Java/Kotlin) developed for DAVx⁵. `MPL-2.0`
+* [dav4jvm](https://github.com/bitfireAT/dav4jvm) ⭐ 104 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-26 - dav4jvm is a WebDAV/CalDAV/CardDAV library for JVM (Java/Kotlin) developed for DAVx⁵. `MPL-2.0`
 * [Jackrabbit WebDAV Library](https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html) - WebDAV Library component of the Apache Jackrabbit project. `Apache-2.0`
 
 ### JavaScript and Dart
@@ -390,4 +390,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
