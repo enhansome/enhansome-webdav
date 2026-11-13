@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T05:09:01Z",
-                "open_issues": 276,
+                "open_issues": 277,
                 "owner": "9001",
                 "repo": "copyparty",
-                "stars": 47336,
+                "stars": 47346,
                 "topics": [
                   "copyparty",
                   "file-server",
@@ -51,7 +51,7 @@
                 "open_issues": 43,
                 "owner": "stalwartlabs",
                 "repo": "stalwart",
-                "stars": 15872,
+                "stars": 15904,
                 "topics": [
                   "caldav",
                   "carddav",
@@ -79,11 +79,11 @@
                 "id": 197914161,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-09T20:27:13Z",
-                "open_issues": 183,
+                "last_commit": "2026-11-13T10:05:12Z",
+                "open_issues": 184,
                 "owner": "drakkan",
                 "repo": "sftpgo",
-                "stars": 12800,
+                "stars": 12806,
                 "topics": [
                   "azure-blob",
                   "cloud-storage",
@@ -120,10 +120,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-11-03T16:05:10Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "svenstaro",
                 "repo": "miniserve",
-                "stars": 8129,
+                "stars": 8136,
                 "topics": [
                   "cli",
                   "command-line",
@@ -152,7 +152,7 @@
                 "open_issues": 16,
                 "owner": "hacdias",
                 "repo": "webdav",
-                "stars": 5985,
+                "stars": 5988,
                 "topics": [
                   "filesystem",
                   "go",
@@ -219,6 +219,61 @@
             },
             {
               "node_type": "item",
+              "title": "KaraDAV",
+              "description": "Lightweight and fast WebDAV server, compatible with NextCloud, OpenCloud and ownCloud apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Lightweight NextCloud compatible WebDAV server",
+                "homepage": "https://fossil.kd2.org/karadav/",
+                "id": 530227197,
+                "language": "PHP",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-05T18:00:03Z",
+                "open_issues": 1,
+                "owner": "kd2org",
+                "repo": "karadav",
+                "stars": 334,
+                "topics": [
+                  "nextcloud",
+                  "nextcloud-server",
+                  "owncloud",
+                  "php",
+                  "sqlite",
+                  "webdav",
+                  "webdav-server"
+                ]
+              },
+              "first_seen": "2026-11-13T13:33:23.877Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PicoDAV",
+              "description": "A lightweight single-file WebDAV server that can be dropped in any shared webhosting, including a web UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Single-file WebDAV server, just drop it in a directory!",
+                "homepage": "https://fossil.kd2.org/picodav/",
+                "id": 566054429,
+                "language": "PHP",
+                "license": "AGPL-3.0",
+                "last_commit": "2025-12-11T02:40:03Z",
+                "open_issues": 2,
+                "owner": "kd2org",
+                "repo": "picodav",
+                "stars": 146,
+                "topics": [
+                  "lightweight",
+                  "php",
+                  "webdav",
+                  "webdav-server"
+                ]
+              },
+              "first_seen": "2026-11-13T13:33:23.877Z"
+            },
+            {
+              "node_type": "item",
               "title": "Seafile",
               "description": "A webdav server written in Python",
               "children": [],
@@ -250,8 +305,8 @@
                 "id": 331906236,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T16:01:30Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-13T13:08:12Z",
+                "open_issues": 10,
                 "owner": "rexzhang",
                 "repo": "asgi-webdav",
                 "stars": 90,
@@ -373,11 +428,11 @@
                     "id": 496605552,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T14:29:29Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-11-13T13:25:24Z",
+                    "open_issues": 4,
                     "owner": "sigoden",
                     "repo": "dufs",
-                    "stars": 11096,
+                    "stars": 11100,
                     "topics": [
                       "cloud-disk",
                       "command-line",
@@ -503,11 +558,11 @@
             "id": 78243781,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T13:30:12Z",
-            "open_issues": 1227,
+            "last_commit": "2026-11-13T12:55:18Z",
+            "open_issues": 1209,
             "owner": "super-productivity",
             "repo": "super-productivity",
-            "stars": 23620,
+            "stars": 23649,
             "topics": [
               "android",
               "flowmodoro",
@@ -658,6 +713,33 @@
             ]
           },
           "first_seen": "2026-08-28T17:49:09.671Z"
+        },
+        {
+          "node_type": "item",
+          "title": "webdav-manager.js",
+          "description": "A WebDAV file manager in JS, that is small and light (embedded in KaraDAV and PicoDAV)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lightweight JS WebDAV client",
+            "homepage": "https://fossil.kd2.org/webdav-manager/",
+            "id": 548547202,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-24T01:40:03Z",
+            "open_issues": 1,
+            "owner": "kd2org",
+            "repo": "webdav-manager.js",
+            "stars": 54,
+            "topics": [
+              "file-browser",
+              "javascript",
+              "js",
+              "webdav",
+              "webdav-client"
+            ]
+          },
+          "first_seen": "2026-11-13T13:33:23.877Z"
         },
         {
           "node_type": "item",
@@ -839,7 +921,7 @@
                 "open_issues": 504,
                 "owner": "elfmz",
                 "repo": "far2l",
-                "stars": 2239,
+                "stars": 2241,
                 "topics": [
                   "filemanager",
                   "linux",
@@ -849,6 +931,48 @@
                 ]
               },
               "first_seen": "2026-08-28T17:49:09.671Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Zouk",
+              "description": "A simple macOS client that shows a guest-access WebDAV folder as a grid of thumbnails, with drag-and-drop upload.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mac client for scan servers",
+                "homepage": null,
+                "id": 1280713394,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-10-16T07:34:06Z",
+                "open_issues": 1,
+                "owner": "woodie",
+                "repo": "zouk",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-13T13:33:23.877Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Huck",
+              "description": "A simple Windows client that shows a guest-access WebDAV folder as a grid of thumbnails, with drag-and-drop upload.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Window client for scan servers",
+                "homepage": null,
+                "id": 1305594586,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2026-10-16T07:46:38Z",
+                "open_issues": 0,
+                "owner": "woodie",
+                "repo": "huck",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-13T13:33:23.877Z"
             }
           ],
           "description": "General purpose apps to browse and manage files on a WebDAV server",
@@ -869,8 +993,8 @@
                 "id": 22636263,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T11:50:37Z",
-                "open_issues": 528,
+                "last_commit": "2026-11-13T13:07:30Z",
+                "open_issues": 509,
                 "owner": "duplicati",
                 "repo": "duplicati",
                 "stars": 15199,
@@ -903,7 +1027,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-09T21:56:30Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "simatec",
                 "repo": "ioBroker.backitup",
                 "stars": 72,
@@ -951,11 +1075,11 @@
                 "id": 632693436,
                 "language": "Dart",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T11:20:50Z",
-                "open_issues": 95,
+                "last_commit": "2026-11-13T09:30:34Z",
+                "open_issues": 94,
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1693,
+                "stars": 1692,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -980,6 +1104,45 @@
                 ]
               },
               "first_seen": "2026-08-28T17:49:09.671Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Noteriv",
+              "description": "Markdown note-taking app for Linux, macOS and Windows with two-way vault sync over WebDAV. Source code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fast, open-source markdown editor. Graph view, plugin API, themes, Git/WebDAV sync, AI MCP — built on Tauri 2.",
+                "homepage": "https://www.noteriv.com/",
+                "id": 1181028617,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-13T13:15:30Z",
+                "open_issues": 0,
+                "owner": "thejacedev",
+                "repo": "Noteriv",
+                "stars": 115,
+                "topics": [
+                  "daily-notes",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "markdown",
+                  "markdown-editor",
+                  "mcp",
+                  "nextjs",
+                  "note-taking",
+                  "notes",
+                  "obsidian-alternative",
+                  "pkm",
+                  "react",
+                  "rust",
+                  "second-brain",
+                  "tauri",
+                  "vault",
+                  "wikilinks"
+                ]
+              },
+              "first_seen": "2026-11-13T13:33:23.877Z"
             }
           ],
           "description": "Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync",
@@ -1012,7 +1175,7 @@
                     "open_issues": 193,
                     "owner": "XayahSuSuSu",
                     "repo": "Android-DataBackup",
-                    "stars": 7592,
+                    "stars": 7594,
                     "topics": [
                       "android",
                       "backup",
@@ -1035,11 +1198,11 @@
                     "id": 60561834,
                     "language": "Kotlin",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-12T10:43:10Z",
-                    "open_issues": 1554,
+                    "last_commit": "2026-11-13T12:41:56Z",
+                    "open_issues": 1561,
                     "owner": "nextcloud",
                     "repo": "android",
-                    "stars": 5699,
+                    "stars": 5702,
                     "topics": [
                       "android",
                       "hacktoberfest",
@@ -1070,7 +1233,7 @@
                     "open_issues": 198,
                     "owner": "newhinton",
                     "repo": "Round-Sync",
-                    "stars": 2427,
+                    "stars": 2429,
                     "topics": [
                       "android",
                       "app",
@@ -1101,7 +1264,7 @@
                     "open_issues": 144,
                     "owner": "x0b",
                     "repo": "rcx",
-                    "stars": 2069,
+                    "stars": 2070,
                     "topics": [
                       "android-app",
                       "android-application",
@@ -1129,7 +1292,7 @@
                     "open_issues": 3,
                     "owner": "alexbakker",
                     "repo": "webdav-provider",
-                    "stars": 278,
+                    "stars": 279,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:49:09.671Z"
@@ -1199,10 +1362,10 @@
                     "language": "HTML",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-10T21:13:49Z",
-                    "open_issues": 980,
+                    "open_issues": 978,
                     "owner": "nova-video-player",
                     "repo": "aos-AVP",
-                    "stars": 4801,
+                    "stars": 4805,
                     "topics": [
                       "android",
                       "archos",
@@ -1255,10 +1418,10 @@
                     "language": "C#",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-12T11:08:36Z",
-                    "open_issues": 1182,
+                    "open_issues": 1184,
                     "owner": "PhilippC",
                     "repo": "keepass2android",
-                    "stars": 6386,
+                    "stars": 6387,
                     "topics": [
                       "android",
                       "keepass",
@@ -1282,10 +1445,10 @@
                     "language": "Dart",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-11T23:43:28Z",
-                    "open_issues": 164,
+                    "open_issues": 165,
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2788,
+                    "stars": 2790,
                     "topics": [
                       "accounting",
                       "ai",
@@ -1320,11 +1483,11 @@
                     "id": 632693436,
                     "language": "Dart",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T11:20:50Z",
-                    "open_issues": 95,
+                    "last_commit": "2026-11-13T09:30:34Z",
+                    "open_issues": 94,
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1693,
+                    "stars": 1692,
                     "topics": [
                       "android",
                       "cross-platform",
@@ -1494,10 +1657,10 @@
                     "language": "Dart",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-11T23:43:28Z",
-                    "open_issues": 164,
+                    "open_issues": 165,
                     "owner": "TNT-Likely",
                     "repo": "BeeCount",
-                    "stars": 2788,
+                    "stars": 2790,
                     "topics": [
                       "accounting",
                       "ai",
@@ -1532,11 +1695,11 @@
                     "id": 632693436,
                     "language": "Dart",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T11:20:50Z",
-                    "open_issues": 95,
+                    "last_commit": "2026-11-13T09:30:34Z",
+                    "open_issues": 94,
                     "owner": "FriesI23",
                     "repo": "mhabit",
-                    "stars": 1693,
+                    "stars": 1692,
                     "topics": [
                       "android",
                       "cross-platform",
@@ -1748,8 +1911,8 @@
                 "id": 101485236,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-12T13:04:11Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-13T13:29:23Z",
+                "open_issues": 55,
                 "owner": "emersion",
                 "repo": "go-webdav",
                 "stars": 504,
@@ -1858,7 +2021,7 @@
                 "open_issues": 14,
                 "owner": "miltonio",
                 "repo": "milton2",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "caldav",
                   "carddav",
@@ -1886,7 +2049,7 @@
                 "open_issues": 9,
                 "owner": "owncloud",
                 "repo": "android-library",
-                "stars": 112,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:49:09.671Z"
@@ -2076,7 +2239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T14:08:52.421Z",
+    "last_updated": "2026-11-13T13:33:23.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps that support WebDAV and tools related to it.",
@@ -2084,8 +2247,8 @@
       "id": 315486610,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-19T12:22:22Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-13T11:48:40Z",
+      "open_issues": 4,
       "owner": "fstanis",
       "repo": "awesome-webdav",
       "stars": 566,
@@ -2100,7 +2263,7 @@
         "webdav-server"
       ]
     },
-    "original_repository_sha": "51810667e9d9a09df2af00cd16441a5e15fada44",
+    "original_repository_sha": "a94a13121e30cac441c41d5ecfe8b4585f8deead",
     "enhanced_repository": "enhansome/enhansome-webdav",
     "enhanced_repository_description": null,
     "title": "Awesome WebDAV with stars"
